@@ -1,6 +1,7 @@
 # Bim360
 
-TODO: Write a gem description
+Bim360 is a [BIM 350 Field API](http://www.autodesk.com/products/bim-360-field/overview) wrapper, written in Ruby.
+
 
 ## Installation
 
@@ -15,6 +16,9 @@ And then execute:
 Or install it yourself as:
 
     $ gem install bim360
+
+## Getting Started
+
 
 ## Usage
 
